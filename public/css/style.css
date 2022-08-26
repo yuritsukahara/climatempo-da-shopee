@@ -33,7 +33,7 @@ header a {
 }
 
 h1 {
-	font-size: 64px;
+	font-size: 52px;
 	margin-bottom: 16px;
 	color: blueviolet;
 }
@@ -54,5 +54,4 @@ button {
 	background-color: #888;
 	color: white;
 	padding: 8px;
-
 }
